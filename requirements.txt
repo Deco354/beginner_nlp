@@ -1,3 +1,6 @@
 ipykernel
 datasets
 pandas
+transformers
+sentencepiece
+protobuf
