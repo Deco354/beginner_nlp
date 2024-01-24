@@ -4,3 +4,5 @@ pandas
 transformers
 sentencepiece
 protobuf
+torch
+transformers[torch]
